@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb.c
+stb_image.h
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb_image.h
+
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb_image.h
+stb_image.h
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+

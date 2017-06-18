@@ -1,0 +1,238 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/glew-1.10.0/include/GL/glew.h
+stddef.h
+-
+inttypes.h
+-
+stdint.h
+-
+inttypes.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/glfw/include/GLFW/glfw3.h
+stddef.h
+-
+OpenGL/gl3.h
+-
+OpenGL/gl3ext.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/glcorearb.h
+-
+GLES/gl.h
+-
+GLES/glext.h
+-
+GLES2/gl2.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl3.h
+-
+GLES3/gl2ext.h
+-
+GLES3/gl31.h
+-
+GLES3/gl2ext.h
+-
+GL/gl.h
+-
+GL/glext.h
+-
+GL/glu.h
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb_image.h
+stb_image.h
+/Users/Ashton/Desktop/Assignment_3 2/work/ext/stb/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/branch.cpp
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+stdexcept
+-
+cgra_geometry.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_geometry.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+simple_image.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_image.hpp
+simple_shader.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_shader.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_geometry.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+cassert
+-
+algorithm
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+limits
+-
+random
+-
+sstream
+-
+string
+-
+type_traits
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/leaf.cpp
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+stdexcept
+-
+cgra_geometry.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_geometry.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+simple_image.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_image.hpp
+simple_shader.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_shader.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/main.cpp
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+stdexcept
+-
+cgra_geometry.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_geometry.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+simple_image.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_image.hpp
+simple_shader.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_shader.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+tree.cpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/tree.cpp
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+GL/glew.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+GLFW/glfw3.h
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_image.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+stb_image.h
+-
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_shader.hpp
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+
+/Users/Ashton/Desktop/Assignment_3 2/work/src/tree.cpp
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+stdexcept
+-
+cgra_geometry.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_geometry.hpp
+cgra_math.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/cgra_math.hpp
+simple_image.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_image.hpp
+simple_shader.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/simple_shader.hpp
+opengl.hpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/opengl.hpp
+leaf.cpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/leaf.cpp
+branch.cpp
+/Users/Ashton/Desktop/Assignment_3 2/work/src/branch.cpp
+
